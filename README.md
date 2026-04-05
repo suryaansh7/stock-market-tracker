@@ -1,1 +1,1 @@
-# stock-market-tracker
+this is a stock-market tracker which tracks a particular stock for you daily and if there is a slight change in the stock prices it sends the user a notification via sms(twilio), highlighting the news wihch is obtained through a news api. this project models the use of api in python. 
